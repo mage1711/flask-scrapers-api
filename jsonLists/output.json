@@ -1,0 +1,52 @@
+[
+    {
+        "rating": "98",
+        "url": "https://www.metacritic.com/game/switch/the-house-in-fata-morgana---dreams-of-the-revenants-edition--",
+        "name": "The House in Fata Morgana - Dreams of the Revenants Edition -",
+        "filename": "The House in Fata Morgana  Dreams of the Revenants Edition ",
+        "platform": "Switch",
+        "release_date": [
+            "April",
+            "9",
+            "2021"
+        ],
+        "position": 0,
+        "video_found": false,
+        "playlist_found": false
+    },
+    {
+        "rating": "86",
+        "url": "https://www.metacritic.com/game/playstation-4/disco-elysium-the-final-cut",
+        "name": "Disco Elysium: The Final Cut",
+        "filename": "Disco Elysium The Final Cut",
+        "platform": "PlayStation 4",
+        "release_date": [
+            "March",
+            "30",
+            "2021"
+        ],
+        "position": 1,
+        "video_url": "https://static-gamespotvideo.cbsistatic.com/vr/2021/03/17/648674/trailer_discodefinitive_4000.mp4",
+        "video_found": true,
+        "playlist_videos": [
+            "https://static-gamespotvideo.cbsistatic.com/vr/2021/03/31/649032/trailer_discoelysiumlaunch_4000.mp4"
+        ],
+        "playlist_found": true
+    },
+    {
+        "rating": "84",
+        "url": "https://www.metacritic.com/game/switch/tony-hawks-pro-skater-1-+-2",
+        "name": "Tony Hawk's Pro Skater 1 + 2",
+        "filename": "Tony Hawks Pro Skater 1  2",
+        "platform": "Switch",
+        "release_date": [
+            "June",
+            "25",
+            "2021"
+        ],
+        "position": 2,
+        "video_url": "https://static-gamespotvideo.cbsistatic.com/vr/2021/02/23/647986/trailer_tonyhawk_2021219_4000.mp4",
+        "video_found": true,
+        "playlist_found": false
+    }
+]
