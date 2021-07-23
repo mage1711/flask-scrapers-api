@@ -1,2 +1,4 @@
 /venv/
 /output.json
+/.idea
+/__pycache__

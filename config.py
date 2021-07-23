@@ -9,6 +9,6 @@ MONTH = ["Jan", "Feb", "Mar", "Apr", "May", "Jun",
          "Jul", "Aug", "Sep", "Oct", "Nov", "Dec", "none"]
 CARDS_TARGET_PAGE = 0
 CARDS_START_PAGE = 0
-ITEMS_PER_PAGE = 3
+ITEMS_PER_PAGE = 10
 CARDS_URL_START = 'https://www.metacritic.com/browse/games/genre/metascore/action/all?view=condensed'
 JSON_FOLDER = 'jsonLists/'

@@ -1,8 +1,9 @@
 from flask import Flask, jsonify,request,json
 from scrapper import scrap_cards
 from config import *
+from flask_cors import CORS
 app = Flask(__name__)
-
+CORS(app)
 
 @app.route('/')
 def hello_world():
